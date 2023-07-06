@@ -21,6 +21,6 @@ Spring Boot、Mybatis、SpringMVC、Mybatis-Plus、Mysql、Redis 、Swagger
 | 前端开发 | JavaScript、HTML | VS Code、Hbuilder | Node.js      | Nginx      |
 | 后端开发 | Java             | IDEA、eclipse     | JDK          | Tomcat     |
 
-#启动路径
+## 启动路径
 前端启动路径：localhost:8080/front/page/login.html
 后端启动路径：localhost:8080/backend/index.html
