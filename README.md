@@ -30,3 +30,6 @@ redis启动（192.168.114.130）：
 cd /usr/local/redis
 ./bin/redis-server ./redis.conf
 bin/redis-cli -h localhost -p 6379 -a 123456
+
+关闭防火墙（开启mysql 114.130）：
+systemctl stop firewalld	
