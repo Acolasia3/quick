@@ -25,3 +25,8 @@ Spring Boot、Mybatis、SpringMVC、Mybatis-Plus、Mysql、Redis 、Swagger
 前端启动路径：localhost:8080/front/page/login.html
 
 后端启动路径：localhost:8080/backend/index.html
+
+redis启动（192.168.114.130）：
+cd /usr/local/redis
+./bin/redis-server ./redis.conf
+bin/redis-cli -h localhost -p 6379 -a 123456
